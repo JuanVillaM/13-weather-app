@@ -1,5 +1,5 @@
 # Information
-:globe_with_meridians: :globe_with_meridians: :globe_with_meridians: *Good morning everyone, with great emotion I can tell you that here is my first node command application that makes a weather forecast using the name of a city* :globe_with_meridians: :globe_with_meridians: :globe_with_meridians:
+:sunny: :umbrella: :snowflake: *Good morning everyone, with great emotion I can tell you that here is my first node command application that makes a weather forecast using the name of a city* :sunny: :umbrella: :snowflake:
 > Juan Villa
 
 # Important!
